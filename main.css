@@ -1,0 +1,220 @@
+body {
+    background-color: rgb(243, 242, 242);
+    font-family: 'Roboto';
+}
+
+.navbar-nav{
+    text-align: right;
+    padding-top: 5px;
+  }
+
+  .navbar .navbar-nav .nav-link {
+      color: #000000;
+      font-size: 1.21em;
+      padding-right: 1em;
+  }
+
+  .navbar .navbar-nav .nav-link:hover{
+      color: rgb(2, 81, 112);
+  }
+
+  i {
+  margin-right: 5px;
+}
+
+.sidebar-section {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(231, 230, 230);
+    width: fit-content;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    color: black;
+    border-radius: 5px;
+    font-family: 'Roboto';
+}
+
+.sidebar-content {
+    margin-top: 40px;
+}
+
+.sidebar-content2 {
+    margin-top: 30px;
+    padding-left: 18px;
+}
+
+.sticky-top:hover {
+    color: rgb(3, 92, 128);
+    cursor: pointer;
+}
+
+.picture {
+    display: flex;
+    margin-top: 50px;
+    max-width: 80%;
+    /* border-radius: 50%; */
+}
+
+.picture img {
+    border-radius: 2%;
+}
+
+.lorem-top {
+    display: flex;
+    color: rgb(3,101,140);
+    margin-top: 13rem;
+    padding-left: 7rem;
+    font-size: 20px;
+}
+
+.lorem-bottom {
+    display: flex;
+    padding-left: 7rem;
+    font-size: 34px;;
+}
+
+.card {
+    margin: 1rem;
+    transform: translate(70%, -40%);
+    width: 20rem;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.card-img-top {
+    border-radius: 10px;
+}
+
+.list-item {
+    list-style-type: none;
+    font-size: 17px;
+    color: grey;
+}
+
+.attendee {
+    color: black;
+    margin-right: 110px;
+    margin-left: 15px;
+    font-size: 17px;
+}
+
+.card-title{
+    color: rgb(3,101,140);
+}
+
+.card-title:hover{
+    color: rgb(0, 94, 255);
+    cursor: pointer;
+}
+
+.card-link {
+    color: rgb(3,101,140);
+    font-size: 18px;
+}
+
+.card-link:hover{
+    color: blue;
+}
+
+.card-link-pic {
+    height: 20px;
+    width: 1px;
+}
+
+.card-link-pic:hover {
+    list-style-type: none;
+}
+
+.navbar2 {
+    transform: translate(29%, -420%);
+    max-width: 70rem;
+    background-color: rgb(243,242,242);
+}
+
+.sign {
+    font-size: 25px;
+}
+
+.form-control {
+    background-color: rgb(233, 232, 230);
+}
+
+.btn {
+    color: rgb(3,101,140);
+    font-size: 20px;
+    text-align: left;
+    padding-left: 0px;
+}
+
+.dropdown-item-red {
+    color: red;
+    padding-left: 25px;
+}
+
+.dropdown-item {
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.dropdown-item-red:hover {
+    color: rgb(162, 10, 10);
+}
+
+.fa2 {
+    padding-right: 5rem;
+    display: inline-flex;
+    padding: 5px;
+    color: rgb(1, 90, 125);
+    padding-left: 4rem;
+}
+
+.fa2:hover {
+    color: rgb(38, 150, 181);
+}
+
+.form-inline {
+    font-size: 20px;
+    padding: 3px;
+}
+
+.pic {
+    height: 8rem;
+    align-items: right;
+    background-color: rgb(242,247,249);
+}
+
+.card-body2 {
+    background-color: rgb(242,247,249);
+    padding: 2.5rem;
+    border-radius: 5%;
+}
+
+.list-item5 {
+    list-style-type: none;
+    background-color: rgb(1, 90, 125);
+    max-width: fit-content;
+    padding: 8px;
+    color: white;
+    border-radius: 8%;
+    text-align: center;
+}
+
+.btn2 {
+    background-color: rgb(1, 90, 125);
+    color: white;
+    border: none;
+}
+
+.btn2:hover {
+    color: rgb(176, 176, 176);
+}
+
+
+
+
